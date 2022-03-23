@@ -13,3 +13,4 @@ Board data type:it is data type that models an n-by-n board with sliding tiles.
 
 
 Solver data type: this data type implements the A* search to solve n-by-n slider puzzles. 
+![image](https://user-images.githubusercontent.com/49921154/159802607-6a02ecff-86ee-4fc2-a2fa-e5698f8eb9ba.png)
